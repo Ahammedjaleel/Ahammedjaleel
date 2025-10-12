@@ -49,8 +49,10 @@ This GitHub portfolio features real-world and simulated projects, including HR a
   </a>
 </p>
 
-
-<h2><b>🚀 Top Repositories</b></h2>
+<hr>
+<h1>🌟 Featured Projects</h1>
+Click the links below to explore some of my favorite and most impactful repositories.
+<hr>
 
 
 
