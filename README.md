@@ -51,7 +51,7 @@ This GitHub portfolio features real-world and simulated projects, including HR a
 <hr>
 <h1>🌟 Featured Projects</h1>
 
-Click the **[links](https://github.com/Ahammedjaleel)** below to explore some of my favorite and most impactful repositories.
+Click the **links** below to explore some of my favorite and most impactful repositories.
 
 <hr>
 
