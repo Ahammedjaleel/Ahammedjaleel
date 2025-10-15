@@ -7,6 +7,16 @@ Skilled in Power BI administration, advanced DAX, Power Query, Azure Data Factor
 
 This GitHub portfolio features real-world and simulated projects, including HR analytics, IoT monitoring, finance KPIs, and retail insights—designed with a focus on clarity, performance, and actionable storytelling.
 
+📂 Repositories
+
+🔷 Power BI Projects
+
+A collection of end-to-end Power BI solutions covering various domains like HR analytics, IoT monitoring, finance KPIs, and retail sales. Each project demonstrates key techniques including data modeling, DAX, interactive dashboard design, and performance tuning. Ideal for understanding how BI tools solve real business problems.
+
+🧠 DAX Practice Scenarios
+
+A growing collection of DAX problem sets with step-by-step explanations and downloadable solution files. Great for anyone looking to sharpen their DAX skills—from beginner to advanced—through practical, real-world scenarios.
+
 * 🌍  I'm based in United Kingdom
 * 🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/ahammed-jaleel-33772b5b/)
 * ✉️  You can contact me at [jaleelahammed@gmail.com](mailto:jaleelahammed@gmail.com)
