@@ -3,21 +3,23 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Business Intelligence & Data Analytics Lead with 10+ years of experience in Power BI, SQL, and Microsoft Azure. Specializes in building enterprise BI solutions, migrating legacy systems, and developing scalable data models and dashboards.
 
-
 - ***Skilled in:***
-  - **Power BI administration**
-  - **Advanced DAX**
-  - **Power Query (M language)**
-  - **Data Modeling (Star schema, Snowflake, Dimensional modeling)**
-  - **Dashboard Design & Storytelling (data visualization, KPI presentation, business insights)**
-  - **SQL (T-SQL, stored procedures, performance tuning)**
-  - **ETL development**
-  - **Azure Data Factory**
-  - **Azure Synapse**
-  - **Azure Data Lake**
-  - **Microsoft Fabric**
-  - **Excel**
-  - **Git / Version Control**
+  - **Power BI administration** – ■■■■■
+  - **Advanced DAX** – ■■■■■
+  - **Data Modeling (Star schema, Snowflake, Dimensional modeling)** – ■■■■■
+  - **Dashboard Design & Storytelling (data visualization, KPI presentation, business insights)** – ■■■■■
+  - **Excel** – ■■■■□
+  - **Power Query (M language)** – ■■■■□
+  - **SQL (T-SQL, stored procedures, performance tuning)** – ■■■■□
+  - **Git / Version Control** – ■■■■□
+  - **ETL development** – ■■■□□
+  - **Azure Data Factory** – ■■■□□
+  - **Azure Synapse** – ■■□□□
+  - **Azure Data Lake** – ■■□□□
+  - **Microsoft Fabric** – ■■□□□
+
+
+
 
 
 - Delivered **130+** Power BI and DAX training sessions across technical and business teams.
