@@ -8,8 +8,8 @@ Business Intelligence & Data Analytics Lead with 10+ years of experience in Powe
   - **Advanced DAX** – ■■■■■
   - **Data Modeling (Star schema, Snowflake, Dimensional modeling)** – ■■■■■
   - **Dashboard Design & Storytelling (data visualization, KPI presentation, business insights)** – ■■■■■
-  - **Excel** – ■■■■□
-  - **Power Query (M language)** – ■■■■□
+  - - **Power Query (M language)** – ■■■■□
+  - **Excel** – ■■■■□  
   - **SQL (T-SQL, stored procedures, performance tuning)** – ■■■■□
   - **Git / Version Control** – ■■■■□
   - **ETL development** – ■■■□□
