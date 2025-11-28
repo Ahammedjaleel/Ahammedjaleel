@@ -3,17 +3,36 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Business Intelligence & Data Analytics Lead with 10+ years of experience in Power BI, SQL, and Microsoft Azure. Specializes in building enterprise BI solutions, migrating legacy systems, and developing scalable data models and dashboards.
 
-Skilled in Power BI administration, advanced DAX, Power Query, Azure Data Factory, Synapse, and Microsoft Fabric. Delivered 130+ Power BI and DAX training sessions across technical and business teams.
+
+- ***Skilled in:***
+  - **Power BI administration**
+  - **Advanced DAX**
+  - **Power Query (M language)**
+  - **Data Modeling (Star schema, Snowflake, Dimensional modeling)**
+  - **Dashboard Design & Storytelling (data visualization, KPI presentation, business insights)**
+  - **SQL (T-SQL, stored procedures, performance tuning)**
+  - **ETL development**
+  - **Azure Data Factory**
+  - **Azure Synapse**
+  - **Azure Data Lake**
+  - **Microsoft Fabric**
+  - **Excel**
+  - **Git / Version Control**
+
+
+- Delivered **130+** Power BI and DAX training sessions across technical and business teams.
+
+
 
 This GitHub portfolio features real-world and simulated projects, including HR analytics, IoT monitoring, finance KPIs, and retail insights—designed with a focus on clarity, performance, and actionable storytelling.
 
-📂 Repositories
+***📂 Repositories***
 
-🔷 Power BI Projects
+**🔷 Power BI Projects**
 
 A collection of end-to-end Power BI solutions covering various domains like HR analytics, IoT monitoring, finance KPIs, and retail sales. Each project demonstrates key techniques including data modeling, DAX, interactive dashboard design, and performance tuning. Ideal for understanding how BI tools solve real business problems.
 
-🧠 DAX Practice Scenarios
+**🧠 DAX Practice Scenarios**
 
 A growing collection of DAX problem sets with step-by-step explanations and downloadable solution files. Great for anyone looking to sharpen their DAX skills—from beginner to advanced—through practical, real-world scenarios.
 
