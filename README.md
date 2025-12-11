@@ -84,13 +84,4 @@ A growing collection of DAX problem sets with step-by-step explanations and down
   
 </p>
 
-<hr>
-<h1>🌟 Featured Projects</h1>
 
-Click the **LINKS** below to explore some of my favorite and most impactful repositories.
-
-<hr>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/Ahammedjaleel/powerbi-projects-portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahammedjaleel&repo=powerbi-projects-portfolio&title_color=0891b2&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Ahammedjaleel/dax-problems-and-solutions" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahammedjaleel&repo=dax-problems-and-solutions&title_color=0891b2&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
